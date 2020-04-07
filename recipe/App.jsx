@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-
+import CardDisplay from "./src/components/cardDisplay"
 export default function App() {
   return (
     <View style={styles.container}>
